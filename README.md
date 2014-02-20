@@ -4,9 +4,9 @@ DR-Cursive
 This is an Android App for children to improve their handwriting.
 We have developed this app @ MIT Media Lab Workshop'14 @ Mumbai.
 
-Team Members:
+Team Members:<br/>
   Manoj Kumar <br/>
-  Rahul Ranjan <br/>
+  <a href="http://rranjan.net"> Rahul Ranjan </a><br/>
   Madhulika Mukherjee <br/>
   Vaishnavi <br/>
   
